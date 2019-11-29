@@ -2,7 +2,7 @@
     "name": "AlsongLyrics",
     "displayname": "알송가사",
     "description": "알송 가사 플러그인(blog.acidpop.kr)",
-    "version": "0.5",
+    "version": "0.6",
     "module": "launcher.php",
     "type": "lyric",
     "class": "AlsongLyric"

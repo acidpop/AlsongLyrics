@@ -4,6 +4,10 @@ Synology Audio Station Alsong Lyric Plugin
 
 ------
 
+2019/11/29 - v0.6 Release
+
+------
+
 2018/04/03 - v0.5 Release
 
 ------
