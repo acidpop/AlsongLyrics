@@ -12,6 +12,10 @@ Synology Audio Station Alsong Lyric Plugin
 
 ------
 
+## 2019/11/29
+
+- 알송 가사 서버 연동 SOAP 변경
+
 ## 2018/04/06
 
 - 소스 공개
@@ -24,7 +28,7 @@ Synology Audio Station Alsong Lyric Plugin
 
  - 3. 압축 할 때 압축형식은 **tgz** 형식으로 압축을 한다.
 
- - 4. 압축된 파일의 이름을 **alsong_lyric_0.5.aum** 으로 변경 한다.
+ - 4. 압축된 파일의 이름을 **alsong_lyric_0.6.aum** 으로 변경 한다.
 
 ### Usage
  - 1. Check out git. (git clone "https://github.com/acidpop/AlsongLyrics")
@@ -33,12 +37,12 @@ Synology Audio Station Alsong Lyric Plugin
 
  - 3. Commpress type is **tgz**.
 
- - 4. Change file name to **alsong_lyric_0.5.aum**.
+ - 4. Change file name to **alsong_lyric_0.6.aum**.
 
 ------
 
 ## 다운로드 링크 안내
 
-- **<a href="http://blog.acidpop.kr/286" target="_blank">http://blog.acidpop.kr/286</a>**
+- **<a href="http://blog.acidpop.kr/308" target="_blank">http://blog.acidpop.kr/308</a>**
 
  문의 사항은 Issue 게시판을 이용해주세요
