@@ -106,10 +106,10 @@ class AlsongLyric
                 'title' => (string)$item->title,
                 'id' => (int)$item->lyricID));
 
-            $info->addTrackInfoToList(    (string)$item->artist, 
+            $info->addTrackInfoToList(  (string)$item->artist, 
                                         (string)$item->title, 
                                         $id, 
-                                        (string)$item->strRegisterName);
+                                        $albumText);
         };
 
         return $xmlLyric->count();
